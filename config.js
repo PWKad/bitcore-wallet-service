@@ -53,7 +53,7 @@ var config = {
     defaultUnit: 'ltc',
     subjectPrefix: '',
     pushServerUrl: 'https://fcm.googleapis.com/fcm',
-    authorizationKey: '',
+    authorizationKey: 'test',
   },
   fiatRateServiceOpts: {
     defaultProvider: 'BitPay',
